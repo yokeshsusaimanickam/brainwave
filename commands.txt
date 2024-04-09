@@ -1,0 +1,45 @@
+
+/*installation of app*/___________________________________________________
+
+//to install vite app with tailwind css. go to tailwindcss.com click get started go to quick search 
+type vite click install tailwind css with vite and follow the steps
+
+//paste these commands in console
+npm create vite@latest ./ -- --template react
+
+//write
+npm install
+
+//write 
+npm run dev
+
+//to install tailwind css
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+//follow the steps in Configure Your template paths
+
+//follow the steps in Add the Tailwind directives to your css
+  remove everything from index.css add the code in Add the Tailwind directives to your css
+
+//run npm run dev one more time
+npm run dev
+
+
+//install react router dom
+npm install react-router-dom
+
+//copy and paste all the readme.md in link
+https://github.com/adrianhajdin/brainwave/blob/main/README.md
+
+//paste assets folder in src
+
+//to install scroll lock
+npm install scroll-lock
+
+//add this code in eslintrc.cjs
+"react/prop-types": "off"
+
+//to add parallax effect
+npm install react-just-parallax
+
